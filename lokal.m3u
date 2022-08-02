@@ -1,0 +1,665 @@
+#EXTM3U
+#EXTINF:-1,MYTV Net
+http://itv.my.id:25461/ehem/ehem/1
+#EXTINF:-1,MYTV 2
+http://itv.my.id:25461/ehem/ehem/2
+#EXTINF:-1,MYTV 3
+http://itv.my.id:25461/ehem/ehem/3
+#EXTINF:-1,RCTI
+http://itv.my.id:25461/ehem/ehem/4
+#EXTINF:-1,MNCTV
+http://itv.my.id:25461/ehem/ehem/5
+#EXTINF:-1,TVONE
+http://itv.my.id:25461/ehem/ehem/6
+#EXTINF:-1,GTV
+http://itv.my.id:25461/ehem/ehem/7
+#EXTINF:-1,Metro TV
+http://itv.my.id:25461/ehem/ehem/8
+#EXTINF:-1,Trans TV
+http://itv.my.id:25461/ehem/ehem/9
+#EXTINF:-1,Indosiar
+http://itv.my.id:25461/ehem/ehem/10
+#EXTINF:-1,Trans 7
+http://itv.my.id:25461/ehem/ehem/11
+#EXTINF:-1,SCTV
+http://itv.my.id:25461/ehem/ehem/12
+#EXTINF:-1,ANTV
+http://itv.my.id:25461/ehem/ehem/13
+#EXTINF:-1,NET TV
+http://itv.my.id:25461/ehem/ehem/14
+#EXTINF:-1,Kompas TV
+http://itv.my.id:25461/ehem/ehem/15
+#EXTINF:-1,RTV
+http://itv.my.id:25461/ehem/ehem/16
+#EXTINF:-1,INEWS TV
+http://itv.my.id:25461/ehem/ehem/17
+#EXTINF:-1,TVRI Nasional
+http://itv.my.id:25461/ehem/ehem/18
+#EXTINF:-1,JTV
+http://itv.my.id:25461/ehem/ehem/19
+#EXTINF:-1,O Channel
+http://itv.my.id:25461/ehem/ehem/20
+#EXTINF:-1,Mentari TV
+http://itv.my.id:25461/ehem/ehem/21
+#EXTINF:-1,BN TV
+http://itv.my.id:25461/ehem/ehem/22
+#EXTINF:-1,CNN Indonesia
+http://itv.my.id:25461/ehem/ehem/23
+#EXTINF:-1,CNBC Indonesia
+http://itv.my.id:25461/ehem/ehem/24
+#EXTINF:-1,Berita Satu
+http://itv.my.id:25461/ehem/ehem/25
+#EXTINF:-1,Magna Channel
+http://itv.my.id:25461/ehem/ehem/26
+#EXTINF:-1,SPOTV
+http://itv.my.id:25461/ehem/ehem/27
+#EXTINF:-1,SPOTV 2
+http://itv.my.id:25461/ehem/ehem/28
+#EXTINF:-1,Bein Sports 1 Premium
+http://itv.my.id:25461/ehem/ehem/29
+#EXTINF:-1,Bein Sports 2 Premium
+http://itv.my.id:25461/ehem/ehem/30
+#EXTINF:-1,Bein Sports 3 Premium
+http://itv.my.id:25461/ehem/ehem/31
+#EXTINF:-1,Champions TV 1
+http://itv.my.id:25461/ehem/ehem/32
+#EXTINF:-1,Champions TV 2
+http://itv.my.id:25461/ehem/ehem/33
+#EXTINF:-1,Champions TV 3
+http://itv.my.id:25461/ehem/ehem/34
+#EXTINF:-1,TVRI Sports
+http://itv.my.id:25461/ehem/ehem/35
+#EXTINF:-1,EGG Network
+http://itv.my.id:25461/ehem/ehem/36
+#EXTINF:-1,Dubai Sports 1
+http://itv.my.id:25461/ehem/ehem/37
+#EXTINF:-1,Dubai Sports 2
+http://itv.my.id:25461/ehem/ehem/38
+#EXTINF:-1,Матч TV
+http://itv.my.id:25461/ehem/ehem/39
+#EXTINF:-1,One Golf
+http://itv.my.id:25461/ehem/ehem/40
+#EXTINF:-1,Abu Dhabi Sports 1
+http://itv.my.id:25461/ehem/ehem/41
+#EXTINF:-1,Abu Dhabi Sports 2
+http://itv.my.id:25461/ehem/ehem/42
+#EXTINF:-1,HBO
+http://itv.my.id:25461/ehem/ehem/43
+#EXTINF:-1,HBO Signature
+http://itv.my.id:25461/ehem/ehem/44
+#EXTINF:-1,CINEMAX
+http://itv.my.id:25461/ehem/ehem/45
+#EXTINF:-1,HBO Family
+http://itv.my.id:25461/ehem/ehem/46
+#EXTINF:-1,HBO Hits
+http://itv.my.id:25461/ehem/ehem/47
+#EXTINF:-1,Thrill
+http://itv.my.id:25461/ehem/ehem/48
+#EXTINF:-1,TVN Movies
+http://itv.my.id:25461/ehem/ehem/49
+#EXTINF:-1,Celestial Movies
+http://itv.my.id:25461/ehem/ehem/50
+#EXTINF:-1,Sinema Indonesia
+http://itv.my.id:25461/ehem/ehem/51
+#EXTINF:-1,Rock Entertainment
+http://itv.my.id:25461/ehem/ehem/54
+#EXTINF:-1,Rock Extreme
+http://itv.my.id:25461/ehem/ehem/55
+#EXTINF:-1,Hits
+http://itv.my.id:25461/ehem/ehem/56
+#EXTINF:-1,K+
+http://itv.my.id:25461/ehem/ehem/57
+#EXTINF:-1,AXN
+http://itv.my.id:25461/ehem/ehem/58
+#EXTINF:-1,Bein Sports 1
+http://itv.my.id:25461/ehem/ehem/59
+#EXTINF:-1,Bein Sports 3
+http://itv.my.id:25461/ehem/ehem/60
+#EXTINF:-1,NBA TV
+http://itv.my.id:25461/ehem/ehem/61
+#EXTINF:-1,Chinese Drama
+http://itv.my.id:25461/ehem/ehem/62
+#EXTINF:-1,Citra Drama
+http://itv.my.id:25461/ehem/ehem/63
+#EXTINF:-1,UFC
+http://itv.my.id:25461/ehem/ehem/64
+#EXTINF:-1,Fight Sports
+http://itv.my.id:25461/ehem/ehem/65
+#EXTINF:-1,MMA TV
+http://itv.my.id:25461/ehem/ehem/66
+#EXTINF:-1,Canal 11
+http://itv.my.id:25461/ehem/ehem/67
+#EXTINF:-1,Zoo Moo Asia
+http://itv.my.id:25461/ehem/ehem/68
+#EXTINF:-1,Boomerang
+http://itv.my.id:25461/ehem/ehem/69
+#EXTINF:-1,Animax
+http://itv.my.id:25461/ehem/ehem/70
+#EXTINF:-1,National Geographic
+http://itv.my.id:25461/ehem/ehem/71
+#EXTINF:-1,Nat Geo Wild
+http://itv.my.id:25461/ehem/ehem/72
+#EXTINF:-1,Smithsonian Channel
+http://itv.my.id:25461/ehem/ehem/73
+#EXTINF:-1,History Channel
+http://itv.my.id:25461/ehem/ehem/74
+#EXTINF:-1,CGTN Documentary
+http://itv.my.id:25461/ehem/ehem/75
+#EXTINF:-1,TV9 Nusantara
+http://itv.my.id:25461/ehem/ehem/76
+#EXTINF:-1,Progresif TV
+http://itv.my.id:25461/ehem/ehem/77
+#EXTINF:-1,MTA TV
+http://itv.my.id:25461/ehem/ehem/78
+#EXTINF:-1,Rodja TV
+http://itv.my.id:25461/ehem/ehem/79
+#EXTINF:-1,ABC News
+http://itv.my.id:25461/ehem/ehem/80
+#EXTINF:-1,DW English
+http://itv.my.id:25461/ehem/ehem/81
+#EXTINF:-1,KBS Korea
+http://itv.my.id:25461/ehem/ehem/82
+#EXTINF:-1,Al Jazeera English
+http://itv.my.id:25461/ehem/ehem/83
+#EXTINF:-1,Astro Awani
+http://itv.my.id:25461/ehem/ehem/84
+#EXTINF:-1,CNA
+http://itv.my.id:25461/ehem/ehem/85
+#EXTINF:-1,RRI NET
+http://itv.my.id:25461/ehem/ehem/86
+#EXTINF:-1,Makkah TV
+http://itv.my.id:25461/ehem/ehem/87
+#EXTINF:-1,The Indonesian Channel
+http://itv.my.id:25461/ehem/ehem/88
+#EXTINF:-1,Brat TV
+http://itv.my.id:25461/ehem/ehem/89
+#EXTINF:-1,MTV Biggest POP
+http://itv.my.id:25461/ehem/ehem/90
+#EXTINF:-1,Fashion TV
+http://itv.my.id:25461/ehem/ehem/91
+#EXTINF:-1,TVKU
+http://itv.my.id:25461/ehem/ehem/92
+#EXTINF:-1,Ruang Trampil
+http://itv.my.id:25461/ehem/ehem/93
+#EXTINF:-1,Animal Planet
+http://itv.my.id:25461/ehem/ehem/94
+#EXTINF:-1,Bali TV
+http://itv.my.id:25461/ehem/ehem/95
+#EXTINF:-1,TVMU Muhammadiyah
+http://itv.my.id:25461/ehem/ehem/96
+#EXTINF:-1,DAAI TV
+http://itv.my.id:25461/ehem/ehem/97
+#EXTINF:-1,Hip Hip Horee
+http://itv.my.id:25461/ehem/ehem/98
+#EXTINF:-1,Usee Prime
+http://itv.my.id:25461/ehem/ehem/99
+#EXTINF:-1,Horee TV
+http://itv.my.id:25461/ehem/ehem/100
+#EXTINF:-1,Citra Bioskop
+http://itv.my.id:25461/ehem/ehem/101
+#EXTINF:-1,Sony Ten 1 HD
+http://itv.my.id:25461/ehem/ehem/102
+#EXTINF:-1,Sony Ten 2 HD
+http://itv.my.id:25461/ehem/ehem/103
+#EXTINF:-1,TV9 Malaysia
+http://itv.my.id:25461/ehem/ehem/104
+#EXTINF:-1,Drama Sangat MY
+http://itv.my.id:25461/ehem/ehem/105
+#EXTINF:-1,TV8 Malaysia
+http://itv.my.id:25461/ehem/ehem/106
+#EXTINF:-1,TV IKIM MY
+http://itv.my.id:25461/ehem/ehem/107
+#EXTINF:-1,Galaxy Premium
+http://itv.my.id:25461/ehem/ehem/161
+#EXTINF:-1,FLIK
+http://itv.my.id:25461/ehem/ehem/259
+#EXTINF:-1,KSB Movies
+http://itv.my.id:25461/ehem/ehem/260
+#EXTINF:-1,DTG Movies 1
+http://itv.my.id:25461/ehem/ehem/261
+#EXTINF:-1,DTG Movies 2
+http://itv.my.id:25461/ehem/ehem/262
+#EXTINF:-1,Zee Cinema
+http://itv.my.id:25461/ehem/ehem/276
+#EXTINF:-1,Godzilla: King of the Monsters (2019)
+http://itv.my.id:25461/movie/ehem/ehem/108.mp4
+#EXTINF:-1,Warkop DKI Reborn (2019)
+http://itv.my.id:25461/movie/ehem/ehem/109.mkv
+#EXTINF:-1,3 Dara 2 (2018)
+http://itv.my.id:25461/movie/ehem/ehem/110.mkv
+#EXTINF:-1,Warkop DKI: Salah Masuk (1992)
+http://itv.my.id:25461/movie/ehem/ehem/111.mp4
+#EXTINF:-1,Akhir Kisah Cinta Si Doel (2020)
+http://itv.my.id:25461/movie/ehem/ehem/112.mkv
+#EXTINF:-1,Ambulance (2022)
+http://itv.my.id:25461/movie/ehem/ehem/113.mp4
+#EXTINF:-1,Ant-Man (2015)
+http://itv.my.id:25461/movie/ehem/ehem/114.mkv
+#EXTINF:-1,Armageddon Tales (2021)
+http://itv.my.id:25461/movie/ehem/ehem/115.mp4
+#EXTINF:-1,Avengers: Endgame (2019)
+http://itv.my.id:25461/movie/ehem/ehem/116.mkv
+#EXTINF:-1,Avengers: Infinity War (2018)
+http://itv.my.id:25461/movie/ehem/ehem/117.mp4
+#EXTINF:-1,Batman v Superman: Dawn of Justice (2016)
+http://itv.my.id:25461/movie/ehem/ehem/118.mp4
+#EXTINF:-1,Batman: Soul of the Dragon (2021)
+http://itv.my.id:25461/movie/ehem/ehem/119.mkv
+#EXTINF:-1,Battle in Space: The Armada Attacks (2021)
+http://itv.my.id:25461/movie/ehem/ehem/120.mkv
+#EXTINF:-1,Battle of Surabaya (2015)
+http://itv.my.id:25461/movie/ehem/ehem/121.mp4
+#EXTINF:-1,Battleship (2012)
+http://itv.my.id:25461/movie/ehem/ehem/122.mp4
+#EXTINF:-1,Black Widow (2021)
+http://itv.my.id:25461/movie/ehem/ehem/123.mp4
+#EXTINF:-1,Bumblebee (2018)
+http://itv.my.id:25461/movie/ehem/ehem/124.mp4
+#EXTINF:-1,Warkop DKI: Chips (1982)
+http://itv.my.id:25461/movie/ehem/ehem/125.mp4
+#EXTINF:-1,Captain Marvel (2019)
+http://itv.my.id:25461/movie/ehem/ehem/126.mkv
+#EXTINF:-1,Cinderella (2021)
+http://itv.my.id:25461/movie/ehem/ehem/127.mp4
+#EXTINF:-1,Clash of the Titans (2010)
+http://itv.my.id:25461/movie/ehem/ehem/128.mp4
+#EXTINF:-1,Danur (2017)
+http://itv.my.id:25461/movie/ehem/ehem/129.mp4
+#EXTINF:-1,Danur 2: Maddah (2018)
+http://itv.my.id:25461/movie/ehem/ehem/130.mkv
+#EXTINF:-1,Danur 3: Sunyaruri (2019)
+http://itv.my.id:25461/movie/ehem/ehem/131.mkv
+#EXTINF:-1,Despicable Me (2010)
+http://itv.my.id:25461/movie/ehem/ehem/132.mp4
+#EXTINF:-1,Doctor Strange (2016)
+http://itv.my.id:25461/movie/ehem/ehem/133.mkv
+#EXTINF:-1,Dragon Fury (2021)
+http://itv.my.id:25461/movie/ehem/ehem/134.mp4
+#EXTINF:-1,Fast & Furious (2009)
+http://itv.my.id:25461/movie/ehem/ehem/135.mp4
+#EXTINF:-1,God Of Gamblers (1989)
+http://itv.my.id:25461/movie/ehem/ehem/136.mkv
+#EXTINF:-1,Godzilla vs. Kong (2021)
+http://itv.my.id:25461/movie/ehem/ehem/137.mkv
+#EXTINF:-1,Home Alone: The Holiday Heist (2012)
+http://itv.my.id:25461/movie/ehem/ehem/138.mp4
+#EXTINF:-1,IT MTT Projects: Hartono Elektronik
+http://itv.my.id:25461/movie/ehem/ehem/139.mp4
+#EXTINF:-1,Interceptor (2022)
+http://itv.my.id:25461/movie/ehem/ehem/140.mkv
+#EXTINF:-1,Iron Man (2008)
+http://itv.my.id:25461/movie/ehem/ehem/141.mkv
+#EXTINF:-1,Jackie Chan: Stunts (1999)
+http://itv.my.id:25461/movie/ehem/ehem/142.mp4
+#EXTINF:-1,Johnny English (2003)
+http://itv.my.id:25461/movie/ehem/ehem/143.mp4
+#EXTINF:-1,Journey To China: The Mystery of Iron Mask  (2019)
+http://itv.my.id:25461/movie/ehem/ehem/144.mkv
+#EXTINF:-1,Jumanji: The Next Level (2019)
+http://itv.my.id:25461/movie/ehem/ehem/145.mp4
+#EXTINF:-1,Justice League (2017)
+http://itv.my.id:25461/movie/ehem/ehem/146.mp4
+#EXTINF:-1,Kamen Rider: Zi O Over Quartzer (2019)
+http://itv.my.id:25461/movie/ehem/ehem/147.mp4
+#EXTINF:-1,Kapten Amerika: Avenger Pertama (2011)
+http://itv.my.id:25461/movie/ehem/ehem/148.mkv
+#EXTINF:-1,Kung Fu Hustle (2004)
+http://itv.my.id:25461/movie/ehem/ehem/149.mp4
+#EXTINF:-1,Madagascar (2005)
+http://itv.my.id:25461/movie/ehem/ehem/150.mp4
+#EXTINF:-1,My Stupid Boss (2016)
+http://itv.my.id:25461/movie/ehem/ehem/151.mkv
+#EXTINF:-1,KKN di Desa Penari Not Official (Qam Quality) (2022)
+http://itv.my.id:25461/movie/ehem/ehem/152.mp4
+#EXTINF:-1,Pirates of the Caribbean: At World's End (2007)
+http://itv.my.id:25461/movie/ehem/ehem/153.mp4
+#EXTINF:-1,Police Story (1985)
+http://itv.my.id:25461/movie/ehem/ehem/154.mkv
+#EXTINF:-1,Resident Evil: Welcome to Raccoon City (2021)
+http://itv.my.id:25461/movie/ehem/ehem/155.mkv
+#EXTINF:-1,Shaolin Soccer (2001)
+http://itv.my.id:25461/movie/ehem/ehem/156.mp4
+#EXTINF:-1,Spider-Man: Homecoming (2017)
+http://itv.my.id:25461/movie/ehem/ehem/157.mp4
+#EXTINF:-1,Spider-Man: No Way Home (2021)
+http://itv.my.id:25461/movie/ehem/ehem/158.mkv
+#EXTINF:-1,The Avengers (2012)
+http://itv.my.id:25461/movie/ehem/ehem/159.mp4
+#EXTINF:-1,The Conjuring: The Devil Made Me Do It (2021)
+http://itv.my.id:25461/movie/ehem/ehem/160.mp4
+#EXTINF:-1,The Forbidden Kingdom (2008)
+http://itv.my.id:25461/movie/ehem/ehem/162.mkv
+#EXTINF:-1,The Legend of Drunken Master (1994)
+http://itv.my.id:25461/movie/ehem/ehem/163.mp4
+#EXTINF:-1,The Medallion (2003)
+http://itv.my.id:25461/movie/ehem/ehem/164.mp4
+#EXTINF:-1,Thor: Ragnarok (2017)
+http://itv.my.id:25461/movie/ehem/ehem/165.mkv
+#EXTINF:-1,Toy Story (1995)
+http://itv.my.id:25461/movie/ehem/ehem/166.mp4
+#EXTINF:-1,Transformers: Dark of the Moon (2011)
+http://itv.my.id:25461/movie/ehem/ehem/167.mp4
+#EXTINF:-1,Twilight (2008)
+http://itv.my.id:25461/movie/ehem/ehem/168.mp4
+#EXTINF:-1,Uncharted (2022)
+http://itv.my.id:25461/movie/ehem/ehem/169.mp4
+#EXTINF:-1,Upin & Ipin: Keris Siamang Tunggal (2019)
+http://itv.my.id:25461/movie/ehem/ehem/170.mkv
+#EXTINF:-1,Warkop DKI: Atas Boleh Bawah Boleh (1986)
+http://itv.my.id:25461/movie/ehem/ehem/171.mp4
+#EXTINF:-1,Warkop DKI: Bisa Naik Bisa Turun (1991)
+http://itv.my.id:25461/movie/ehem/ehem/172.mp4
+#EXTINF:-1,Warkop DKI: Depan Bisa Belakang Bisa (1987)
+http://itv.my.id:25461/movie/ehem/ehem/173.mp4
+#EXTINF:-1,Warkop DKI: Godain Kita Dong (1989)
+http://itv.my.id:25461/movie/ehem/ehem/174.mp4
+#EXTINF:-1,Warkop DKI: Makin Lama Makin Asyik (1987)
+http://itv.my.id:25461/movie/ehem/ehem/175.mp4
+#EXTINF:-1,Warkop DKI: Malu-Malu Mau (1988)
+http://itv.my.id:25461/movie/ehem/ehem/176.mkv
+#EXTINF:-1,Warkop DKI: Pencet Sana Pencet Sini (1994)
+http://itv.my.id:25461/movie/ehem/ehem/177.mkv
+#EXTINF:-1,Warkop DKI: Sabar Dulu Dong...! (1989)
+http://itv.my.id:25461/movie/ehem/ehem/178.mp4
+#EXTINF:-1,Warkop DKI: Lupa Aturan Main (1990)
+http://itv.my.id:25461/movie/ehem/ehem/179.mp4
+#EXTINF:-1,Warkop DKI: Dongkrak Antik (1982)
+http://itv.my.id:25461/movie/ehem/ehem/180.mp4
+#EXTINF:-1,Independence Day: Resurgence (2016)
+http://itv.my.id:25461/movie/ehem/ehem/181.mp4
+#EXTINF:-1,Bangkitnya Suster Gepeng (2012)
+http://itv.my.id:25461/movie/ehem/ehem/202.mkv
+#EXTINF:-1,Ada Apa Dengan Cinta? 2 (2016)
+http://itv.my.id:25461/movie/ehem/ehem/203.mp4
+#EXTINF:-1,Sully (2016)
+http://itv.my.id:25461/movie/ehem/ehem/204.mkv
+#EXTINF:-1,Cahaya Cinta Pesantren (2017)
+http://itv.my.id:25461/movie/ehem/ehem/205.mkv
+#EXTINF:-1,My Stupid Boyfriend (2017)
+http://itv.my.id:25461/movie/ehem/ehem/206.mkv
+#EXTINF:-1,Gundala (2019)
+http://itv.my.id:25461/movie/ehem/ehem/207.mkv
+#EXTINF:-1,The Lost City (2022)
+http://itv.my.id:25461/movie/ehem/ehem/208.mp4
+#EXTINF:-1,Umma (2022)
+http://itv.my.id:25461/movie/ehem/ehem/209.mp4
+#EXTINF:-1,Børning 3 (2020)
+http://itv.my.id:25461/movie/ehem/ehem/210.mp4
+#EXTINF:-1,Bigfoot vs the Illuminati (2020)
+http://itv.my.id:25461/movie/ehem/ehem/211.mp4
+#EXTINF:-1,Crazy Samurai Musashi (2020)
+http://itv.my.id:25461/movie/ehem/ehem/212.mp4
+#EXTINF:-1,G-Zombie (2021)
+http://itv.my.id:25461/movie/ehem/ehem/213.mp4
+#EXTINF:-1,Mr Bean Vol 1 (1990)
+http://itv.my.id:25461/movie/ehem/ehem/214.mp4
+#EXTINF:-1,SAS: Red Notice (2021)
+http://itv.my.id:25461/movie/ehem/ehem/215.mp4
+#EXTINF:-1,Scooby-Doo on Zombie Island (1998)
+http://itv.my.id:25461/movie/ehem/ehem/216.mp4
+#EXTINF:-1,The Banishing (2021)
+http://itv.my.id:25461/movie/ehem/ehem/217.mp4
+#EXTINF:-1,The Resort (2021)
+http://itv.my.id:25461/movie/ehem/ehem/218.mp4
+#EXTINF:-1,Redemption Day (2021)
+http://itv.my.id:25461/movie/ehem/ehem/219.mp4
+#EXTINF:-1,Thor (2011)
+http://itv.my.id:25461/movie/ehem/ehem/220.mkv
+#EXTINF:-1,Thor: The Dark World (2013)
+http://itv.my.id:25461/movie/ehem/ehem/221.mkv
+#EXTINF:-1,Captain America: The Winter Soldier (2014)
+http://itv.my.id:25461/movie/ehem/ehem/222.mkv
+#EXTINF:-1,Guardians of the Galaxy (2014)
+http://itv.my.id:25461/movie/ehem/ehem/223.mkv
+#EXTINF:-1,Avengers: Age of Ultron (2015)
+http://itv.my.id:25461/movie/ehem/ehem/224.mkv
+#EXTINF:-1,Deadpool (2016)
+http://itv.my.id:25461/movie/ehem/ehem/225.mp4
+#EXTINF:-1,Suicide Squad (2016)
+http://itv.my.id:25461/movie/ehem/ehem/226.mp4
+#EXTINF:-1,Guardians of the Galaxy Vol. 2 (2017)
+http://itv.my.id:25461/movie/ehem/ehem/227.mkv
+#EXTINF:-1,Ant-Man and the Wasp (2018)
+http://itv.my.id:25461/movie/ehem/ehem/228.mkv
+#EXTINF:-1,Black Panther (2018)
+http://itv.my.id:25461/movie/ehem/ehem/229.mkv
+#EXTINF:-1,Deadpool 2 (2018)
+http://itv.my.id:25461/movie/ehem/ehem/230.mp4
+#EXTINF:-1,Dragon Ball Super Broly (2018)
+http://itv.my.id:25461/movie/ehem/ehem/231.mp4
+#EXTINF:-1,Venom (2018)
+http://itv.my.id:25461/movie/ehem/ehem/232.mkv
+#EXTINF:-1,He Wont Kill, She Wont Die (2019)
+http://itv.my.id:25461/movie/ehem/ehem/233.mkv
+#EXTINF:-1,Kingdom Live Action (2019)
+http://itv.my.id:25461/movie/ehem/ehem/234.mkv
+#EXTINF:-1,Spider-Man: Far From Home (2019)
+http://itv.my.id:25461/movie/ehem/ehem/235.mkv
+#EXTINF:-1,The Odd Family Zombie On Sale (2019)
+http://itv.my.id:25461/movie/ehem/ehem/236.mp4
+#EXTINF:-1,Captain America: Civil War (2016)
+http://itv.my.id:25461/movie/ehem/ehem/237.mkv
+#EXTINF:-1,Ip Man (2008)
+http://itv.my.id:25461/movie/ehem/ehem/238.mp4
+#EXTINF:-1,Iron Man 2 (2010)
+http://itv.my.id:25461/movie/ehem/ehem/239.mkv
+#EXTINF:-1,The Hunger Games (2012)
+http://itv.my.id:25461/movie/ehem/ehem/240.mp4
+#EXTINF:-1,The Incredible Hulk (2008)
+http://itv.my.id:25461/movie/ehem/ehem/241.mkv
+#EXTINF:-1,Independence Day (1996)
+http://itv.my.id:25461/movie/ehem/ehem/242.mp4
+#EXTINF:-1,47 Ronin (2013)
+http://itv.my.id:25461/movie/ehem/ehem/263.mp4
+#EXTINF:-1,The Lord of the Rings: The Fellowship of the Ring (2001)
+http://itv.my.id:25461/movie/ehem/ehem/264.mkv
+#EXTINF:-1,Harry Potter and the Chamber of Secrets (2002)
+http://itv.my.id:25461/movie/ehem/ehem/265.mkv
+#EXTINF:-1,John Wick (2014)
+http://itv.my.id:25461/movie/ehem/ehem/266.mp4
+#EXTINF:-1,Maze Runner: The Death Cure (2018)
+http://itv.my.id:25461/movie/ehem/ehem/267.mp4
+#EXTINF:-1,Ape vs. Monster (2021)
+http://itv.my.id:25461/movie/ehem/ehem/268.mp4
+#EXTINF:-1,Aquaman (2018)
+http://itv.my.id:25461/movie/ehem/ehem/269.mp4
+#EXTINF:-1,Batman vs. Teenage Mutant Ninja Turtles (2019)
+http://itv.my.id:25461/movie/ehem/ehem/270.mp4
+#EXTINF:-1,Forget Everything and Run (2021)
+http://itv.my.id:25461/movie/ehem/ehem/271.mp4
+#EXTINF:-1,Frozen (2013)
+http://itv.my.id:25461/movie/ehem/ehem/272.mp4
+#EXTINF:-1,The Twilight Saga: Eclipse (2010)
+http://itv.my.id:25461/movie/ehem/ehem/273.mp4
+#EXTINF:-1,The Twilight Saga: New Moon (2009)
+http://itv.my.id:25461/movie/ehem/ehem/274.mp4
+#EXTINF:-1,Wonder Woman (2017)
+http://itv.my.id:25461/movie/ehem/ehem/275.mp4
+#EXTINF:-1,Star Movies
+http://itv.my.id:25461/ehem/ehem/277
+#EXTINF:-1,Charlie's Angels (2019)
+http://itv.my.id:25461/movie/ehem/ehem/278.mp4
+#EXTINF:-1,A Little Princess (2019)
+http://itv.my.id:25461/movie/ehem/ehem/279.mp4
+#EXTINF:-1,Along with the Gods The Last 49 Days (2018)
+http://itv.my.id:25461/movie/ehem/ehem/280.mp4
+#EXTINF:-1,Another Child (2019)
+http://itv.my.id:25461/movie/ehem/ehem/281.mp4
+#EXTINF:-1,I Am Home (2019)
+http://itv.my.id:25461/movie/ehem/ehem/282.mp4
+#EXTINF:-1,Brazen (2022)
+http://itv.my.id:25461/movie/ehem/ehem/326.mp4
+#EXTINF:-1,Fistful of Vengeance (2022)
+http://itv.my.id:25461/movie/ehem/ehem/327.mp4
+#EXTINF:-1,Spiderhead (2022)
+http://itv.my.id:25461/movie/ehem/ehem/328.mp4
+#EXTINF:-1,Unstoppable (2010)
+http://itv.my.id:25461/movie/ehem/ehem/329.mp4
+#EXTINF:-1,Comic 8 (2014)
+http://itv.my.id:25461/movie/ehem/ehem/330.mkv
+#EXTINF:-1,Generasi Micin vs Kevin (2018)
+http://itv.my.id:25461/movie/ehem/ehem/331.mp4
+#EXTINF:-1,Ajari Aku Islam (2019)
+http://itv.my.id:25461/movie/ehem/ehem/332.mkv
+#EXTINF:-1,Iqro: My Universe (2019)
+http://itv.my.id:25461/movie/ehem/ehem/333.mkv
+#EXTINF:-1,Torpedo (2019)
+http://itv.my.id:25461/movie/ehem/ehem/334.mp4
+#EXTINF:-1,Abrakadabra
+http://itv.my.id:25461/movie/ehem/ehem/335.mkv
+#EXTINF:-1,Dendam Kesuma (2021)
+http://itv.my.id:25461/movie/ehem/ehem/336.mkv
+#EXTINF:-1,Gehraiyaan (2022)
+http://itv.my.id:25461/movie/ehem/ehem/337.mkv
+#EXTINF:-1,Hotel Transylvania: Transformania (2022)
+http://itv.my.id:25461/movie/ehem/ehem/338.mp4
+#EXTINF:-1,The Meg (2018)
+http://itv.my.id:25461/movie/ehem/ehem/339.mkv
+#EXTINF:-1,Layangan Putus S01 E01
+http://itv.my.id:25461/series/ehem/ehem/182.mp4
+#EXTINF:-1,Layangan Putus S01 E02
+http://itv.my.id:25461/series/ehem/ehem/183.mp4
+#EXTINF:-1,Layangan Putus S01 E03
+http://itv.my.id:25461/series/ehem/ehem/184.mp4
+#EXTINF:-1,Layangan Putus S01 E04
+http://itv.my.id:25461/series/ehem/ehem/185.mp4
+#EXTINF:-1,Layangan Putus S01 E05
+http://itv.my.id:25461/series/ehem/ehem/186.mp4
+#EXTINF:-1,Layangan Putus S01 E06
+http://itv.my.id:25461/series/ehem/ehem/187.mp4
+#EXTINF:-1,Layangan Putus S01 E07
+http://itv.my.id:25461/series/ehem/ehem/188.mp4
+#EXTINF:-1,Layangan Putus S01 E08
+http://itv.my.id:25461/series/ehem/ehem/189.mp4
+#EXTINF:-1,Layangan Putus S01 E09
+http://itv.my.id:25461/series/ehem/ehem/190.mp4
+#EXTINF:-1,Layangan Putus S01 E10
+http://itv.my.id:25461/series/ehem/ehem/191.mp4
+#EXTINF:-1,Layangan Putus S01 E11
+http://itv.my.id:25461/series/ehem/ehem/192.mp4
+#EXTINF:-1,Layangan Putus S01 E12
+http://itv.my.id:25461/series/ehem/ehem/193.mp4
+#EXTINF:-1,Layangan Putus S01 E13
+http://itv.my.id:25461/series/ehem/ehem/194.mp4
+#EXTINF:-1,Layangan Putus S01 E14
+http://itv.my.id:25461/series/ehem/ehem/195.mp4
+#EXTINF:-1,Layangan Putus S01 E15
+http://itv.my.id:25461/series/ehem/ehem/196.mp4
+#EXTINF:-1,Layangan Putus S01 E16
+http://itv.my.id:25461/series/ehem/ehem/197.mp4
+#EXTINF:-1,Layangan Putus S01 E17
+http://itv.my.id:25461/series/ehem/ehem/198.mp4
+#EXTINF:-1,Layangan Putus S01 E18
+http://itv.my.id:25461/series/ehem/ehem/199.mp4
+#EXTINF:-1,Layangan Putus S01 E19
+http://itv.my.id:25461/series/ehem/ehem/200.mp4
+#EXTINF:-1,Wedding Hell S01 E01
+http://itv.my.id:25461/series/ehem/ehem/243.mp4
+#EXTINF:-1,Wedding Hell S01 E02
+http://itv.my.id:25461/series/ehem/ehem/244.mp4
+#EXTINF:-1,Wedding Hell S01 E03
+http://itv.my.id:25461/series/ehem/ehem/245.mp4
+#EXTINF:-1,Wedding Hell S01 E04
+http://itv.my.id:25461/series/ehem/ehem/246.mp4
+#EXTINF:-1,Wedding Hell S01 E05
+http://itv.my.id:25461/series/ehem/ehem/247.mp4
+#EXTINF:-1,Wedding Hell S01 E06
+http://itv.my.id:25461/series/ehem/ehem/248.mp4
+#EXTINF:-1,Wedding Hell S01 E07
+http://itv.my.id:25461/series/ehem/ehem/249.mp4
+#EXTINF:-1,Wedding Hell S01 E08
+http://itv.my.id:25461/series/ehem/ehem/250.mp4
+#EXTINF:-1,Wedding Hell S01 E09
+http://itv.my.id:25461/series/ehem/ehem/251.mp4
+#EXTINF:-1,Wedding Hell S01 E10
+http://itv.my.id:25461/series/ehem/ehem/252.mp4
+#EXTINF:-1,Wedding Hell S01 E11
+http://itv.my.id:25461/series/ehem/ehem/253.mp4
+#EXTINF:-1,Wedding Hell S01 E12
+http://itv.my.id:25461/series/ehem/ehem/254.mp4
+#EXTINF:-1,Goblin S01 E01
+http://itv.my.id:25461/series/ehem/ehem/283.avi
+#EXTINF:-1,Goblin S01 E02
+http://itv.my.id:25461/series/ehem/ehem/284.avi
+#EXTINF:-1,Goblin S01 E03
+http://itv.my.id:25461/series/ehem/ehem/285.avi
+#EXTINF:-1,Goblin S01 E04
+http://itv.my.id:25461/series/ehem/ehem/286.avi
+#EXTINF:-1,Goblin S01 E05
+http://itv.my.id:25461/series/ehem/ehem/287.avi
+#EXTINF:-1,Goblin S01 E06
+http://itv.my.id:25461/series/ehem/ehem/288.avi
+#EXTINF:-1,Goblin S01 E07
+http://itv.my.id:25461/series/ehem/ehem/289.avi
+#EXTINF:-1,Goblin S01 E08
+http://itv.my.id:25461/series/ehem/ehem/290.avi
+#EXTINF:-1,Goblin S01 E09
+http://itv.my.id:25461/series/ehem/ehem/291.avi
+#EXTINF:-1,Goblin S01 E10
+http://itv.my.id:25461/series/ehem/ehem/292.avi
+#EXTINF:-1,Goblin S01 E11
+http://itv.my.id:25461/series/ehem/ehem/293.avi
+#EXTINF:-1,Goblin S01 E12
+http://itv.my.id:25461/series/ehem/ehem/294.avi
+#EXTINF:-1,Goblin S01 E13
+http://itv.my.id:25461/series/ehem/ehem/295.avi
+#EXTINF:-1,Goblin S01 E14
+http://itv.my.id:25461/series/ehem/ehem/296.avi
+#EXTINF:-1,Goblin S01 E15
+http://itv.my.id:25461/series/ehem/ehem/297.avi
+#EXTINF:-1,Goblin S01 E16
+http://itv.my.id:25461/series/ehem/ehem/298.avi
+#EXTINF:-1,Sweet Home S01 E01
+http://itv.my.id:25461/series/ehem/ehem/309.mp4
+#EXTINF:-1,Sweet Home S01 E02
+http://itv.my.id:25461/series/ehem/ehem/299.mp4
+#EXTINF:-1,Sweet Home S01 E03
+http://itv.my.id:25461/series/ehem/ehem/301.mp4
+#EXTINF:-1,Sweet Home S01 E04
+http://itv.my.id:25461/series/ehem/ehem/302.mp4
+#EXTINF:-1,Sweet Home S01 E05
+http://itv.my.id:25461/series/ehem/ehem/303.mp4
+#EXTINF:-1,Sweet Home S01 E06
+http://itv.my.id:25461/series/ehem/ehem/304.mp4
+#EXTINF:-1,Sweet Home S01 E07
+http://itv.my.id:25461/series/ehem/ehem/305.mp4
+#EXTINF:-1,Sweet Home S01 E08
+http://itv.my.id:25461/series/ehem/ehem/306.mp4
+#EXTINF:-1,Sweet Home S01 E09
+http://itv.my.id:25461/series/ehem/ehem/307.mp4
+#EXTINF:-1,Sweet Home S01 E10
+http://itv.my.id:25461/series/ehem/ehem/308.mp4
+#EXTINF:-1,Sweet Home S01 E11
+http://itv.my.id:25461/series/ehem/ehem/300.mp4
+#EXTINF:-1,Sweet Revenge S02 E01
+http://itv.my.id:25461/series/ehem/ehem/310.mp4
+#EXTINF:-1,Sweet Revenge S02 E02
+http://itv.my.id:25461/series/ehem/ehem/318.mp4
+#EXTINF:-1,Sweet Revenge S02 E03
+http://itv.my.id:25461/series/ehem/ehem/319.mp4
+#EXTINF:-1,Sweet Revenge S02 E04
+http://itv.my.id:25461/series/ehem/ehem/320.mp4
+#EXTINF:-1,Sweet Revenge S02 E05
+http://itv.my.id:25461/series/ehem/ehem/321.mp4
+#EXTINF:-1,Sweet Revenge S02 E06
+http://itv.my.id:25461/series/ehem/ehem/322.mp4
+#EXTINF:-1,Sweet Revenge S02 E07
+http://itv.my.id:25461/series/ehem/ehem/323.mp4
+#EXTINF:-1,Sweet Revenge S02 E08
+http://itv.my.id:25461/series/ehem/ehem/324.mp4
+#EXTINF:-1,Sweet Revenge S02 E09
+http://itv.my.id:25461/series/ehem/ehem/325.mp4
+#EXTINF:-1,Sweet Revenge S02 E10
+http://itv.my.id:25461/series/ehem/ehem/311.mp4
+#EXTINF:-1,Sweet Revenge S02 E11
+http://itv.my.id:25461/series/ehem/ehem/312.mp4
+#EXTINF:-1,Sweet Revenge S02 E12
+http://itv.my.id:25461/series/ehem/ehem/313.mp4
+#EXTINF:-1,Sweet Revenge S02 E13
+http://itv.my.id:25461/series/ehem/ehem/314.mp4
+#EXTINF:-1,Sweet Revenge S02 E14
+http://itv.my.id:25461/series/ehem/ehem/315.mp4
+#EXTINF:-1,Sweet Revenge S02 E15
+http://itv.my.id:25461/series/ehem/ehem/316.mp4
+#EXTINF:-1,Sweet Revenge S02 E16
+http://itv.my.id:25461/series/ehem/ehem/317.mp4
